@@ -7,7 +7,7 @@ const frameMetadata = getFrameMetadata({
       label: 'We love BOAT',
     },
   ],
-  image: 'https://zizzamia.xyz/park-1.png',
+  image: 'https://f1337.vercel.app/failed/22.GIF',
   post_url: 'https://zizzamia.xyz/api/frame',
 });
 
@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'zizzamia.xyz',
     description: 'LFG',
-    images: ['https://zizzamia.xyz/park-1.png'],
+    images: ['https://f1337.vercel.app/failed/22.GIF'],
   },
   other: {
     ...frameMetadata,
