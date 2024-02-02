@@ -7,7 +7,7 @@ const frameMetadata = getFrameMetadata({
       label: 'Test mint',
     },
   ],
-  image: 'https://f1337.vercel.app/failed/22.GIF',
+  image: 'https://i.gyazo.com/40a269363f416f28caff4f8d9601d670.gif',
   post_url: 'https://zizzamia.xyz/api/frame',
 });
 
