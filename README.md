@@ -15,7 +15,7 @@ import type { Metadata } from 'next';
 const frameMetadata = getFrameMetadata({
   buttons: [
     {
-      label: 'We love BOAT',
+      label: 'Test mint',
     },
   ],
   image: 'https://zizzamia.xyz/park-1.png',
